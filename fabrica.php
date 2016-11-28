@@ -15,3 +15,5 @@ $veiculo2->abastecer(15);
 $veiculo1->acelerar(40);
 
 var_dump($veiculo1);
+
+echo "Potencia do motor: ".Motor::POTENCIA;
